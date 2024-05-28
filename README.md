@@ -2,7 +2,7 @@
 ## I'm Bruno Andrade
 - I live in :brazil:, northeast 😎 🌅 🏄
 - I have been studying some languages to become a backend developer 💻
-- I have practiced and executed some projects in front-end 🧑‍🏭
+- I have practiced and executed some projects in front-end and Back-end🧑‍🏭
 - I have been learning more about Ruby on Rails ♦️
 
 ## Connect with me:
